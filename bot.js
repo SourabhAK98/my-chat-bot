@@ -9,7 +9,6 @@ class MyBot extends ActivityHandler {
     // eslint-disable-next-line no-useless-constructor
     constructor() {
         super();
-
     }
 
     async getStatus() {
