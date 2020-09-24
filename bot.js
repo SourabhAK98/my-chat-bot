@@ -12,8 +12,8 @@ class MyBot extends ActivityHandler {
     }
 
     async getStatus() {
-        
-        }
+
+ }
 
     async onTurn(turnContext) {
         const text = turnContext.activity.text;
